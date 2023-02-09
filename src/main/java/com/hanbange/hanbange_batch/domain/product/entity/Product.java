@@ -58,8 +58,7 @@ public class Product {
 	}
 
 	public void restock() {
-		this.stock = 1000000;
+		this.stock = 100;
 	}
-
 }
 
